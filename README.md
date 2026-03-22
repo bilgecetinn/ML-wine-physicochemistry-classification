@@ -1,6 +1,6 @@
 # Data-Driven & ML Colour Analysis of Portuguese Wines
 
-** Multiscale, Machine Learning, and QSAR Methods Applied to Biomolecules Intensive Course - November 2024 | TCCM Master's Programme**  
+** AI & ML in Chemistry module, Intensive Course November 2024 | TCCM European Master's Programme **  
 Aspet, Toulouse, France  
 Assignment submitted to: **Prof. Romuald Poteau** (LPCNO, INSA / Université Toulouse III - Paul Sabatier)
 
